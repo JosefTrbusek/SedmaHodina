@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SedmaHodina", "SedmaHodina\SedmaHodina.csproj", "{6D145446-7A7E-4B11-869B-AAA739D21EC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dedeni", "Dedeni\Dedeni.csproj", "{062FCD7B-0CBB-407D-8865-C199CAEFAEC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D145446-7A7E-4B11-869B-AAA739D21EC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D145446-7A7E-4B11-869B-AAA739D21EC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D145446-7A7E-4B11-869B-AAA739D21EC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D145446-7A7E-4B11-869B-AAA739D21EC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{062FCD7B-0CBB-407D-8865-C199CAEFAEC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{062FCD7B-0CBB-407D-8865-C199CAEFAEC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{062FCD7B-0CBB-407D-8865-C199CAEFAEC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{062FCD7B-0CBB-407D-8865-C199CAEFAEC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4B489F5-D3A0-4D1E-877D-39747D55D2C6}
+	EndGlobalSection
+EndGlobal
